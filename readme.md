@@ -1,4 +1,4 @@
-# Autonomous Navigation of a Warehouse Robot using ROS2
+# Intelligent Warehouse Robotics: Aruco-Assisted Path Planning
 
 ## **Project Overview**
 This project focuses on developing a **ROS2 package** that enables a **TurtleBot** to navigate a maze using **Aruco markers** for guidance. 
